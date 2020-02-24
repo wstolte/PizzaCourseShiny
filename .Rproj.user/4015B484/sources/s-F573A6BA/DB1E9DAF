@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582551621120.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DB1E9DAF",
+    "lastKnownWriteTime" : 1582555175,
+    "last_content_update" : 1582555175066,
+    "path" : "D:/GitHub_working_copies/PizzaCourseShiny/R_Tool/app.R",
+    "project_path" : "R_Tool/app.R",
+    "properties" : {
+        "cursorPosition" : "273,2",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "251"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
